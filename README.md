@@ -1,9 +1,9 @@
 # 1List
 ## List of repositories <br>
 - Universities works: <br>
-University_year_semestr_discipline_number of work(if exist)_name
+University_year_semestr_discipline_numberOfWork(if exist)_name
 - Example: <br>
-University_1_2_ProgrammingInAHigh-levelLanguage_CourseProjectTetris <br>
+University_1_2_ProgrammingInAHigh-levelLanguage_CourseProject_Tetris <br>
 - Disciplines: <br>
 1_1/2_ProgrammingInAHigh-levelLanguage (Программирование на языке высокого уровня) <br> 
 1_1_IntroductionToWebTechnologies (Введение в веб технологии) <br>
