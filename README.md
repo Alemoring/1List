@@ -10,7 +10,7 @@ University_1_2_ProgrammingInAHigh-levelLanguage_CourseProject_Tetris <br>
 1_2_EducationalPractice (Учебная практика) <br>
 2_1_OperatingSystems (Операционные системы) <br>
 2_1_OperationsResearch (Исследование операция) <br>
-2_1/2_Object0orientedProgramming (Объектно-ориентированное программирование) <br>
+2_1/2_ObjectOrientedProgramming (Объектно-ориентированное программирование) <br>
 2_1/2_PromotionAndDesignOfWebResources (Продвижение и дизайн веб ресурсов (ДППП)) <br>
 2_2_DataAnalysisMethods (Методы анализа данных) <br>
 2_2_ProgrammingTechnologies (Технологии программирования) <br>
