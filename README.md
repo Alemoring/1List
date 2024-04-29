@@ -1,2 +1,6 @@
 # 1List
 List of repositories
+Universities works:
+University_year_semestr_discipline_name
+Example:
+University_1_1_ProgrammingInAHigh-levelLanguage_CourseProject
